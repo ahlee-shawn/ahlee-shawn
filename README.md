@@ -6,7 +6,8 @@ Hi I am Ang-Hsuan Lee(李昂軒). I am a research assistant at Institute of Info
 ### EDUCATION
 #### National Chiao Tung University
 Sep.2016 - Jan.2020
-Bachelor degree of Computer Science(CS+EE program)
+- Bachelor degree of Computer Science(CS+EE program)
+- GPA: 3.9/4.0
 
 ---
 
