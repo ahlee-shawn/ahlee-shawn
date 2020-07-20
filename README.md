@@ -5,19 +5,19 @@ Hi I am Ang-Hsuan Lee(李昂軒). I am a research assistant at Institute of Info
 
 ### EDUCATION
 #### National Chiao Tung University
-Sep, 2016 - Jan 2020
+Sep.2016 - Jan.2020
 Bachelor degree of Computer Science(CS+EE program)
 
 ---
 
 ### WORK EXPERIENCE
 #### Research Assistant at Institute of Information Science, Academia Sinica
-Jun 2020 - Present
+Jun.2020 - Present
 - Main research topic: Real-time bidding(RTB) based display advertising
 
 
 #### Intern at D-Link NCTU Joint Research Center
-Jan 2019 - Jul.2019
+Jan.2019 - Jul.2019
 - Study official documents of ONOS
 - Test and document the behavior of switches in different Software Defined Networks scenarios
 <!--
