@@ -1,7 +1,9 @@
 ### Hi there 👋
 Hi, I am Ang-Hsuan Lee(李昂軒). My friends also call me Shawn.
 
-I am a research assistant at Institute of Information Science, Academia Sinica, Taiwan. I recieved my bachelor’s degree in Computer Science specialized in CS+EE program from National Chiao Tung University in January 2020. My research interests cover security and privacy related to networks and artificial intelligence. I am interested in various fields including network security, online advertising, and adversarial attacks and defenses.
+I am a research assistant at the Institute of Information Science, Academia Sinica, Taiwan. I received my bachelor’s degree in Computer Science specialized in CS+EE program from National Chiao Tung University in January 2020. My research interests cover security and privacy related to networks and artificial intelligence. I am interested in various fields including network security, online advertising, and adversarial attacks and defenses.
+
+I have a dream of studying abroad. I plan to apply for a master's degree overseas before the end of 2020 and study abroad in September 2021. If you have any information to share with me, feel free to contact me at any time. 
 
 Come and visit [my personal website](https://ahlee-shawn.github.io)!
 
