@@ -1,28 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=ahlee-shawn)
 Hi, I am Ang-Hsuan Lee(李昂軒). My friends also call me Shawn.
-
-I am a research assistant at the Institute of Information Science, Academia Sinica, Taiwan. I received my bachelor’s degree in Computer Science specialized in CS+EE program from National Chiao Tung University in January 2020. My research interests cover security and privacy related to networks and artificial intelligence. I am interested in various fields including network security, online advertising, and adversarial attacks and defenses.
-
-I have a dream of studying abroad. I plan to apply for a master's degree overseas before the end of 2020 and study abroad in September 2021. If you have any information to share with me, feel free to contact me at any time. 
 
 Come and visit [my personal website](https://ahlee-shawn.github.io)!
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlee-shawn&show_icons=true&count_private=true&theme=vision-friendly-dark)
 
-### EDUCATION
-#### National Chiao Tung University
-Sep.2016 - Jan.2020
-- Bachelor's degree in Computer Science(CS+EE program)
-
----
-
-### WORK EXPERIENCE
-#### Research Assistant at Institute of Information Science, Academia Sinica
-Jun.2020 - Present
-
-
-#### SDN Testing Intern at D-Link NCTU Joint Research Center
-Jan.2019 - Jul.2019
 <!--
 **leeang6969/leeang6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
