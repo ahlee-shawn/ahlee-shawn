@@ -3,7 +3,9 @@ Hi, I am Ang-Hsuan Lee(李昂軒). My friends also call me Shawn.
 
 Come and visit [my personal website](https://ahlee-shawn.github.io)!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlee-shawn&show_icons=true&count_private=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlee-shawn&show_icons=true&count_private=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlee-shawn&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **leeang6969/leeang6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
